@@ -1,0 +1,7 @@
+.idea
+*vendor*
+*dbdata*
+
+services/customer/nova
+services/products/nova
+services/rental/nova
